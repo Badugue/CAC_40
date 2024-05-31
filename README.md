@@ -1,6 +1,8 @@
 
 # Instructions pour Exécuter le Projet
 
+- Copiez l'exécutable Projet_Sup'trading.exe et lancez le, celui-ci va extraire les fichiers du projet.
+
 - Une fois dézippé, le notebook server s'ouvrira automatiquement dans votre navigateur par défaut. Vous pouvez alors exécuter les cellules et explorer les analyses et les résultats.
 
 - Exécutez "CAC 40.ipynb" pour avoir l'historique des actions du CAC 40 qui génère deux fichier : csv et excel
